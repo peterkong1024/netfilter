@@ -7,3 +7,5 @@ corpus/
 crashers/
 suppressions/
 netfilter-fuzz.zip
+
+.idea/

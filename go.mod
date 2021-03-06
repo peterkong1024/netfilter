@@ -1,4 +1,4 @@
-module github.com/ti-mo/netfilter
+module github.com/peterkong1024/netfilter
 
 go 1.12
 
